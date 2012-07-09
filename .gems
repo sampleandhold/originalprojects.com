@@ -1,0 +1,5 @@
+mislav-will_paginate    --source http://gems.github.com
+tlsmail
+paperclip                                               --version '>= 2.3.1.1'
+uuidtools
+aws-s3
